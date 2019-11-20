@@ -1,0 +1,3 @@
+I didn't upload node_modules folder since it was very high and was tasking forever to upload.
+
+I only added react-router-dom besides creating react-app.
